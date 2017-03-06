@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class ArraySum {
 
-    static int arraySum(int length, int[] array) {
+    public static int arraySum(int length, int[] array) {
         int result = 0;
         for (int i = 0; i < length; i++) {
             result += array[i];
