@@ -4,6 +4,8 @@ import java.util.HashMap;
 
 /**
  * Created by modus on 3/4/17.
+ * Write a program that calculates the number of times each character
+ * occurs in a string and prints these counts to the console.
  */
 public class CountChars {
     public static void main(String[] args) {
